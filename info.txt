@@ -1,1 +1,14 @@
-add the script to a bookmark and click it on any website but google.com go to any website that is unblocked and click it click ok and type "enable or disable" to disable any extention
+how to use!
+
+click the bookmarklet on any page thats not google.com go to anything that is not google.
+once u click it click ok
+it will redrict to a new page
+click it again!
+
+and your done! you can disable and reenable any extension!
+if you restart or power off your chromebook it will renable.
+
+
+
+
+have fun with this exploit!!
